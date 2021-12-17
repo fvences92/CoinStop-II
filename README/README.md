@@ -13,7 +13,8 @@ Version 1.0
 
 
 ## Screenshots 
-![CoinStop](/ScreenShot.png)
+![Pre-Search](/ScreenShot.png)
+![Post-Search](/ScreenShot2.png)
 
  ## Getting Started
  [click here](https://coinstop2.netlify.app/) to deploy the application!
