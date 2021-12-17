@@ -21,3 +21,5 @@ Version 1.0
 
  ## Future Enhancements
  * The Ability to favorite and save cryptocurrency to localstorage
+ * The Ability to remove currency and create a new search without having to refresh the page
+ * Fix comma typo in returned currencies that have multiple digits after the decimal.
