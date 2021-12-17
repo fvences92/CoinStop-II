@@ -16,7 +16,7 @@ Version 1.0
 ![CoinStop](/CoinStopW.png)
 
  ## Getting Started
- [click here](coinstop.netlify.app) to deploy the application!
+ [click here](https://coinstop2.netlify.app/) to deploy the application!
 
  ## Future Enhancements
  * The Ability to favorite and save cryptocurrency to localstorage
