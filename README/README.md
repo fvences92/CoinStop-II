@@ -17,9 +17,10 @@ Version 1.0
 ![Post-Search](/ScreenShot2.png)
 
  ## Getting Started
- [click here](https://coinstop2.netlify.app/) to deploy the application!
+ [click here](https://coinstop1.netlify.app/) to deploy the application!
 
  ## Future Enhancements
  * The Ability to favorite and save cryptocurrency to localstorage
  * The Ability to remove currency and create a new search without having to refresh the page
  * Fix comma typo in returned currencies that have multiple digits after the decimal.
+ * Improve mobile wesbite
